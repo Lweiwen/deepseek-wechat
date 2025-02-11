@@ -1,0 +1,8 @@
+wechaty==0.8.17
+wechaty-puppet-service==0.8.1
+pyee==8.2.2
+flask
+flask-cors
+sqlalchemy
+requests
+itchat-uos==1.5.0.dev0
